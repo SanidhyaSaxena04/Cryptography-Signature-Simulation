@@ -1,6 +1,5 @@
 # Cryptography-Signature-Simulation
 A simulation comparing RSA and ElGamal digital signatures, with a web-based demo of a secure messenger.
-# Cryptography Signature Simulation (RSA vs. ElGamal)
 
 This project, built for the Cryptography and Network Security course (BECE411L), provides a comprehensive analysis and simulation of RSA and ElGamal digital signature algorithms.
 
