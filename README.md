@@ -36,4 +36,4 @@ This simulation compares the two algorithms at a 1024-bit key size.
 2.  Open it in any modern web browser (like Chrome or Firefox).
 
 ---
-*A project by Ansu Raj, Astitva Sharma, Sanidhya Saxena, Satyam Saurav, and Dhruv Jaipuria for Vellore Institute of Technology, Chennai.*
+*A project by Ansu Raj, Astitva Sharma, Sanidhya Saxena, Satyam Saurav, and Dhruv Jaipuria for Vellore Institute of Technology, Vellore.*
